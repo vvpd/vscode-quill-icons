@@ -2,7 +2,7 @@
   "name": "quill-icons",
   "displayName": "Quill Icons",
   "description": "A beautiful icon set extended from the Feather Icons collection",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "cdonohue",
   "license": "MIT",
   "engines": {

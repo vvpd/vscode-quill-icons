@@ -126,7 +126,8 @@
     "zshrc": "_terminal_dark",
     "lock": "_lock_dark",
     "log": "_info_dark",
-    "snap": "_camera_dark"
+    "snap": "_camera_dark",
+    "svelte": "_code_dark",
   },
   "languageIds": {
     "bat": "_terminal_dark",
@@ -176,7 +177,10 @@
     ".eslintrc.js": "_eslint_dark",
     ".eslintrc.json": "_eslint_dark",
     ".gitignore": "_git_dark",
-    ".gitattributes": "_git_dark"
+    ".gitattributes": "_git_dark",
+    "+page.svelte": "_html_dark",
+    "+layout.svelte": "_html_dark",
+    "+error.svelte": "_info_dark",
   },
   "light": {
     "folder": "_folder_light",
@@ -201,7 +205,8 @@
       "zshrc": "_terminal_light",
       "lock": "_lock_light",
       "log": "_info_light",
-      "snap": "_camera_light"
+      "snap": "_camera_light",
+      "svelte": "_code_light"
     },
     "languageIds": {
       "bat": "_terminal_light",
@@ -251,7 +256,10 @@
       ".eslintrc.js": "_eslint_light",
       ".eslintrc.json": "_eslint_light",
       ".gitignore": "_git_light",
-      ".gitattributes": "_git_light"
+      ".gitattributes": "_git_light",
+      "+page.svelte": "_html_light",
+      "+layout.svelte": "_html_light",
+      "+error.svelte": "_info_light"
     }
   }
 }
